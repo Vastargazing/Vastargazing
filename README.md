@@ -9,7 +9,11 @@ I'm Valery Borovsky [@Vastargazing](https://github.com/Vastargazing), an aspirin
 
 ## Get in Touch
 - 📫 How to reach me: [vebohr@gmail.com].
-- 🌐 [Telegram, Instargram, VK, Facebook](@vastargazing)
+
+## Stack
+- **React**: ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+- **Vue**: ![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=vue.js)
+- **Visual Studio Code**: ![VS Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=flat&logo=visual-studio-code)
 
 
 
